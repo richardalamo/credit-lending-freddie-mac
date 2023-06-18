@@ -4,7 +4,7 @@
 
 In this project, I developed machine learning models to predict delinquent loans, aiming to achieve the highest possible recall score. The models used included Logistic Regression, XGB, Random Forest, Voting Classifier, Stacking, and a Deep Learning model using Keras. The best performing model was a Logistic Regression model, achieving an average recall score of 0.76. These models can help Freddie Mac purchase mortgage securities at the correct price, minimizing the negative impact of delinquent loans on the market.
 
-**[Notebook Link]((https://github.com/richardalamo/credit-lending-freddie-mac/blob/main/Ricardo%20Alamo%20-%20Portfolio%20Project%20-%20Freddie%20Mac.ipynb))** | 
+**[Notebook Link](https://github.com/richardalamo/credit-lending-freddie-mac/blob/main/Ricardo%20Alamo%20-%20Portfolio%20Project%20-%20Freddie%20Mac.ipynb)** | 
 For a more complete summary please visit my portfolio website **[Complete Summary](https://ricardo-alamo-portfolio.webflow.io/freddie-mac)**
 
 ## Key Findings:
