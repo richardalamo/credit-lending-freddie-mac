@@ -1,8 +1,11 @@
-# Title: Identifying Delinquent Loans for Freddie Mac: A Machine Learning Approach
+# Identifying Delinquent Loans for Freddie Mac: A Machine Learning Approach
 
 ## Summary:
 
 In this project, I developed machine learning models to predict delinquent loans, aiming to achieve the highest possible recall score. The models used included Logistic Regression, XGB, Random Forest, Voting Classifier, Stacking, and a Deep Learning model using Keras. The best performing model was a Logistic Regression model, achieving an average recall score of 0.76. These models can help Freddie Mac purchase mortgage securities at the correct price, minimizing the negative impact of delinquent loans on the market.
+
+**[Notebook Link](https://example.com/notebook)** | 
+For a more complete summary please visit my portfolio website **[Complete Summary](https://ricardo-alamo-portfolio.webflow.io/freddie-mac)**
 
 ## Key Findings:
 
@@ -18,4 +21,4 @@ In this project, I developed machine learning models to predict delinquent loans
 
 Further exploration and optimization of Deep Learning models could potentially improve precision, although their compliance with the Fair Housing Act needs to be examined.
 
-Feel free to adjust the formatting or provide any additional information if needed.
+Please note that the provided links are placeholders. Replace them with the actual notebook link and website link for the notebook and complete summary, respectively.
